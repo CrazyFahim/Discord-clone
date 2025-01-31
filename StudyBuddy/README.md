@@ -20,7 +20,7 @@ source .venv/bin/activate
 ### Cloning repo
 Clone the repository using the following command :
 ```bash
-git clone https://github.com/{user-name}{repo}.git
+https://github.com/CrazyFahim/Discord-clone.git
 ```
 Move into the directory where the project files : 
 ```bash
